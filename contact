@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/contactstyle.css">
+</head>
+<body>
+        <div class = "h1header">
+                <h1> Viktoriya Grishkina </h1> 
+                <div class ="ulheader">
+                    <ul>
+                        <li><a href = "index.html">About</a></li>
+                        <li><a href = "portfolio.html">Portfolio</a></li>
+                        <li><a href = "contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div> 
+            <div class ="main-page">
+                 <div  class ="inside-main-page">
+                    <h2>Contact</h2>
+                    <hr>
+                    <br>
+                    <h3>Name</h3>
+                    <br>
+                    <input type="text" value= "Viktoriya Grishkina" style="width:99%">
+                    <br><br>
+                    <h3> Email</h3>
+                    <br>
+                    <input type="email" value= "vias.grishkina@gmail.com" style="width:99%">
+                    <br><br>
+                    <h3>Message</h3>
+                    <br>
+                    <div>
+                            <textarea style="width:100%; height:200px"> </textarea>
+                    </div>
+                    <br>
+                    <!--<input type="submit" Submit >-->
+                    <button type="button">Submit</button>
+                </div>
+            </div>    
+    <footer>Copyright &copy; </footer>   
+</body>
+
+</html>
